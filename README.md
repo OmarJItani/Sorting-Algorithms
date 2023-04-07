@@ -4,3 +4,4 @@ In this repository, I present my implementation to various sorting algorithms in
 
 - Quick Sort
 - Bubble Sort
+- Merge Sort
