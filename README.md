@@ -6,3 +6,4 @@ In this repository, I present my implementation to various sorting algorithms in
 - Bubble Sort
 - Merge Sort
 - Insertion Sort
+- Selection Sort
